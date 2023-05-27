@@ -1,0 +1,18 @@
+$ git log
+commit 3ac36e9208bd203dc545845163cd12509e30aa02 (HEAD -> master, origin/master)
+Author: Volodymyr Hrusha <121403550+Vova1232458@users.noreply.github.com>
+Date:   Sat May 27 13:24:41 2023 +0300
+
+    Create New text
+
+commit 95d0003f53ec457cb28fc6f6615ee256c0397575
+Author: Volodymyr <grusha2608@gmail.com>
+Date:   Sat May 27 13:17:48 2023 +0300
+
+    deleted text
+
+commit e6fce23c59760517a324efdfd2814da598b8a8bc
+Author: Volodymyr <grusha2608@gmail.com>
+Date:   Sat May 27 13:01:57 2023 +0300
+
+    text about IT
